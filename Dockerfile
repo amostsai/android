@@ -1,6 +1,6 @@
 # Learning from beevelop, thanks beevelop!
 
-FROM amostsai/webupd8java:8.x
+FROM amostsai/webupd8java
 MAINTAINER Amos Tsai <amos.tsai@gmail.com>
 
 
